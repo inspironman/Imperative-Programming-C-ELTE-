@@ -1,0 +1,5 @@
+John Doe;J0HND3;3.14;60;0;
+Jane Doe;J4N3D3;4.04;56;1;
+Teacher Tom;T0MT0M;3.5;100;2;
+Bachelor Bob;B0BB0B;2.2;20;0;
+ 
